@@ -130,7 +130,7 @@ address {
     color: white;
     cursor: pointer;
     padding: 15px;
-    border-radius: 50%;
+    border-radius: 20px;
     box-shadow: 0 4px 10px rgba(253, 99, 18, 0.4);
     transition: transform 0.3s ease, background-color 0.3s;
 }
